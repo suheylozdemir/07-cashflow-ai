@@ -1,5 +1,5 @@
 # CashFlow AI 💼
-
+🚀 **[Live Demo](https://07-cashflow-ai-jrrxgivijfe7cmc9tmpqwx.streamlit.app/)**
 AI-powered GST classification and cash flow analysis for Australian small businesses. Upload your bank statement CSV and get an instant BAS summary, 90-day cash flow forecast, and spending anomaly detection — all powered by real ATO documentation.
 
 ---
